@@ -6,11 +6,10 @@ Lenovo IdeaPad Y700 macOS Catalina 10.15 EFI
 
 二、硬件配置
 
-硬件改变：
-
-蓝牙WIFI        已硬改为：BCM94352Z
+硬件改变：  
+蓝牙WIFI        已硬改为：BCM94352Z  
 储存            已硬改为：Intel SSD Pro 760P 512G  
-
+  
 维持不变：  
 处理器名称      Intel Core i7-6700HQ, 3300 MHz (33 x 100)  
 主板名称        Lenovo ideapad Y700-15ISK  
