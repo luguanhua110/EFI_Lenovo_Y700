@@ -22,3 +22,8 @@ HDMI声音       Intel Skylake HDMI @ Intel Sunrise Point PCH - High Definition 
 USB           1个USB2  2个USB3  
 Easycamer    （内建）    
 读卡器         左边有 1 个读卡器，因为从来没有用过，没有检测是否可用。  
+
+三、如何使用  
+ 
+ 3.1 删除 /EFI/CLOVER/ACPI/patched 中的DSDT.aml 因为这台电脑换过硬件，所以这个DSDT可能不适合你。    
+ 3.2 删除 /EFI/CLOVER/ACPI/patched 中的SSDT-NVMe.aml 。如果你没有NVMe固态硬盘。    
