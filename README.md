@@ -4,6 +4,25 @@ Lenovo IdeaPad Y700 macOS Catalina 10.15 EFI
 
 2019.11.3  新建仓库，更新内容为： 更新 kexts 为目前最新版。
 
+WhateverGreen.kext  1.3.4  
+AppleALC.kext       1.4.3  
+Lilu.kext           1.3.9  
+  
+  
+AirportBrcmFixup.kext       2.0.4  
+BrcmBluetoothInjector.kext  2.5.0  
+BrcmFirmwareData.kext       2.5.0  
+BrcmPatchRAM3.kext          2.5.0  
+  
+  
+FakeSMC.kext                1800  
+FakeSMC_ACPISensors.kext  
+FakeSMC_CPUSensors.kext  
+FakeSMC_GPUSensors.kext  
+FakeSMC_LPCSensors.kext
+FakeSMC_SMMSensors.kext  
+   
+
 二、硬件配置
 
 硬件改变：  
